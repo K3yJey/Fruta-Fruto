@@ -3,7 +3,7 @@
 }
 
 .banner__imagen {
-    background-image: url(/img/banner.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/K3yJey/Fruta-Fruto@main/img/banner.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -146,15 +146,15 @@
 }
 
 .roberta {
-    background-image: url(/img/personas/roberta.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/K3yJey/Fruta-Fruto@main/img/personas/roberta.jpg);
 }
 
 .marcela {
-    background-image: url(/img/personas/marcela.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/K3yJey/Fruta-Fruto@main/img/personas/marcela.jpg);
 }
 
 .andreida {
-    background-image: url(/img/personas/andrea.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/K3yJey/Fruta-Fruto@main/img/personas/andrea.jpg);
 }
 
 .persona__nombre {
