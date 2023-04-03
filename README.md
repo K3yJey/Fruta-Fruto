@@ -15,7 +15,7 @@ Tercer proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Landing Pa
 Proyecto culminado, implementación del responsive design y mejora del proyecto.
 
 ## ▶️ Prueba la Aplicación Web - Github Pages
-* Github Pages => [Fruta & Fruto](https://k3yjey.github.io/Fruta-Fruto/)
+* Github Pages => [Fruta & Fruto](https://k3yjey.github.io/webPage-FrutaFruto/)
 
 ## 💻 Contacto
 * Linkedin => [Clic aquí](https://www.linkedin.com/in/k3yjey-dev/)
