@@ -13,5 +13,8 @@ Tercer proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Landing Pa
 ## 📌 Comentarios adicionales
 Proyecto culminado, implementación del responsive design y mejora del proyecto.
 
+## 🎨 Diseño en Figma
+* Figma => [Clic aquí](https://www.figma.com/file/ilRsZfnAxnrU2Ch1EmCTma/WebPage---Fruta-%26-Fruto?t=hiN9BK48rrR8l8Oj-1)
+
 ## 💻 Contacto
 * Linkedin => [Clic aquí](https://www.linkedin.com/in/k3yjey-dev/)
