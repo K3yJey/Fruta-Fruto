@@ -1,8 +1,7 @@
 # Proyecto Fruta & Fruto
 ![image](https://cdn.jsdelivr.net/gh/K3yJey/Fruta-Fruto@main/img/homePage_Fruta%26Fruto.png)
 
-
-## Sobre el Repositorio
+## 📦 Sobre el Repositorio
 Tercer proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Landing Page de una página llamada Fruta & Fruto, proyecto para aprender Metodología BEM, y perfeccionar el uso del CSS3.
 
 ## ✔️ [El proyecto aquí](https://github.com/K3yJey/Fruta-Fruto.git)
@@ -13,9 +12,6 @@ Tercer proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Landing Pa
 
 ## 📌 Comentarios adicionales
 Proyecto culminado, implementación del responsive design y mejora del proyecto.
-
-## ▶️ Prueba la Aplicación Web - Github Pages
-* Github Pages => [Fruta & Fruto](https://k3yjey.github.io/webPage-FrutaFruto/)
 
 ## 💻 Contacto
 * Linkedin => [Clic aquí](https://www.linkedin.com/in/k3yjey-dev/)
