@@ -1,20 +1,22 @@
-# Proyecto Fruta & Fruto
-![image](https://cdn.jsdelivr.net/gh/K3yJey/webPage-FrutaFruto@main/assets/img/homePage_Fruta%26Fruto.png)
+# Landing Page - Fruta & Fruto
 
-## 📦 Sobre el Repositorio
-Tercer proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Landing Page de una página llamada Fruta & Fruto, proyecto para aprender Metodología BEM, y perfeccionar el uso del CSS3.
+### Description
 
-## ✔️ [El proyecto aquí](https://github.com/K3yJey/Fruta-Fruto.git)
+Landing Page of Fruta & Fruto, project with BEM Methodology, and use of CSS.
 
-## 🔧 Tecnologías utilizadas
-* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### Technologies
 
-## 📌 Comentarios adicionales
-Proyecto culminado, implementación del responsive design y mejora del proyecto.
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🎨 Diseño en Figma
-* Figma => [Clic aquí](https://www.figma.com/file/ilRsZfnAxnrU2Ch1EmCTma/WebPage---Fruta-%26-Fruto?t=hiN9BK48rrR8l8Oj-1)
+### Aditionals Commets
 
-## 💻 Contacto
-* Linkedin => [Clic aquí](https://www.linkedin.com/in/k3yjey-dev/)
+Project completed.
+
+### Figma app layout
+
+[Fruta & Fruto Page in Figma](https://www.figma.com/file/ilRsZfnAxnrU2Ch1EmCTma/WebPage---Fruta-%26-Fruto?t=hiN9BK48rrR8l8Oj-1)
+
+### Developer contact
+
+[LinkedIn](https://www.linkedin.com/in/k3yjey-dev/)
